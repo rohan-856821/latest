@@ -1,0 +1,5 @@
+PageObject\EmpDetails.class
+PageObject\LoginPage.class
+Utility\Screenshot.class
+Utility\propfile.class
+Utility\ReadExcel.class
